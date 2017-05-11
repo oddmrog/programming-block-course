@@ -1,0 +1,47 @@
+div
+   {
+     display: inline-block;
+   }
+h1
+	{
+		background-color: #bc5a45;
+		color: white;		
+	}
+
+h2
+	{
+		background-color: #f18973;
+	}
+
+body 
+	{
+		background-color: #f4e1d2;
+		font-family: Arial, sans-serif;
+	}
+
+button
+	{
+		background-color:  #fefbd8;
+		font-weight: bold;
+
+	}
+p
+	{
+		
+		font-size: medium;
+		background-color: #fefbd8;
+	}
+.datetime
+	{
+		font-size: small;
+		font-weight: bold;
+	}
+
+.timeleft
+	{
+		font-weight: bold;
+	}
+.w3w
+	{
+		font-weight: bold;
+	}
